@@ -137,6 +137,12 @@ jetbrains
 ```
 
 ## :m: 其他
+### 安装epic报错解决
+```
+scoop install lessmsi
+scoop config msiextract_use_lessmsi $true
+scoop install epicgameslauncher
+```
 
 ### Aria2 的参数自定义
 
